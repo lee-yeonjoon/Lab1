@@ -1,3 +1,6 @@
 banana
 apple
 kiwi
+melon
+watermelon
+strawberry
